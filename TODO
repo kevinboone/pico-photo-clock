@@ -1,0 +1,9 @@
+- User interface for setting the time
+- Alternative display with, say, just the time (including seconds) in a
+  very large font
+
+Note that, although the LCD panel has a touch digitizer, my case design
+has the display behind a 5mm sheet of tinted perspex, so it can't be
+used. Consequently, I'm reluctant to implement anything that requires
+a user interface.
+
