@@ -7,8 +7,9 @@ Kevin Boone, January 2023
 `pico-photo-clock` is a desktop clock with photo slideshow backgrounds,
 designed for use with the Waveshare 430x480 display and Waveshare real-time
 clock module. These modules will stack nicely to make a self-contained
-assembly. It is designed to work with a real-time clock module, so that the
-date and time are retained when the hardware is powered off.
+assembly. The real-time clock module keeps the
+date and time when the hardware is powered off. No soldering is required to
+construct the clock -- the parts all push together.
 
 Images in JPEG format are read from an SD card build into the display module.
 Connecting the Pico to a computer and running a terminal emulator provides a
